@@ -1,0 +1,24 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(4, 176, 255);
+    font-size:25px ;
+    font-family: serif;
+    font-weight: 400;
+    color:wheat ;
+}
+
+body{
+    background-color: rgb(151, 255, 31);
+}
+
+.grid{
+    border: 2px solid rgba(0, 0, 0, 0.994);
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    font-family: fantasy;
+}
